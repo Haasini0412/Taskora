@@ -1,0 +1,11 @@
+{
+  "name": "SmartAlert - Native Android & Web App",
+  "description": "Smart task reminders with exact alarms, location-based geofences, Do Not Disturb investigation, and complete Kotlin Jetpack Compose code.",
+  "requestFramePermissions": [
+    "geolocation",
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
